@@ -5,15 +5,18 @@
    "userLast": "Faucher",
    "userParams": [
 		{
-			"label": "Parameter 1",
+			"paramLabel": "Parameter 1",
+			"title": "Previous Job",
 			"description": "Parameter 1 Description"
 		},
 		{
-			"label": "Parameter 2",
+			"paramLabel": "Parameter 2",
+			"title": "Company",
 			"description": "Parameter 2 Description"
 		},
 		{
-			"label": "Parameter 3",
+			"paramLabel": "Parameter 3",
+			"title": "School",
 			"description": "Parameter 3 Description"
 		}   		
    ]
