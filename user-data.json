@@ -1,45 +1,45 @@
 ﻿[
  {
    "userId": "0000",
-   "userFirst": "Research",
-   "userLast": "Confederate",
+   "userFirst": "Aaron",
+   "userLast": "Faucher",
    "userParams": [
 		{
-			"paramLabel": "Confed 1",
-			"title": "Previous Job",
-			"description": "CONFED 1"
+			"paramLabel": "Previous Job 1",
+			"title": "VR UX Designer",
+			"description": "4 month at High Fidelity, Inc. in San Francisco"
 		},
 		{
-			"paramLabel": "Confed 2",
-			"title": "Company",
-			"description": "CONFED 2"
+			"paramLabel": "Current",
+			"title": "MHCI Student at CMU",
+			"description": "Having a lot of fun, especially when working on the AR independent study."
 		},
 		{
-			"paramLabel": "Confed 3",
-			"title": "School",
-			"description": "CONFED 3"
+			"paramLabel": "Previous Job 2",
+			"title": "AR/VR UX Engineer",
+			"description": "End-to-end UX/UI design, rapid prototyping, 3D asset preparation, and Unity C# development for Bay Area VR startups."
 		}   		
    ]
  },
   {
    "userId": "0001",
-   "userFirst": "Aaron",
-   "userLast": "Faucher",
+   "userFirst": "Nathan",
+   "userLast": "LeBlanc",
    "userParams": [
 		{
-			"paramLabel": "UserParam 1",
-			"title": "Previous Job",
-			"description": "MAKE Assistant Editor"
+			"paramLabel": "Current",
+			"title": "Graduate Student",
+			"description": "Studying Human-Computer Interaction at Carnegie Mellon"
 		},
 		{
-			"paramLabel": "UserParam 2",
-			"title": "Company",
-			"description": "Parameter 2 Description"
+			"paramLabel": "Previous 1",
+			"title": "Freelance UX Strategist",
+			"description": "User research and content strategy"
 		},
 		{
-			"paramLabel": "UserParam 3",
-			"title": "School",
-			"description": "Parameter 3 Description"
+			"paramLabel": "Previous 2",
+			"title": "UX Strategy Intern at BEAM Interactive",
+			"description": "User research, market research, and product strategy."
 		}   		
    ]
  }
