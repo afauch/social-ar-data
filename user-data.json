@@ -1,21 +1,43 @@
 ﻿[
  {
+   "userId": "0000",
+   "userFirst": "Research",
+   "userLast": "Confederate",
+   "userParams": [
+		{
+			"paramLabel": "Confed 1",
+			"title": "Previous Job",
+			"description": "CONFED 1"
+		},
+		{
+			"paramLabel": "Confed 2",
+			"title": "Company",
+			"description": "CONFED 2"
+		},
+		{
+			"paramLabel": "Confed 3",
+			"title": "School",
+			"description": "CONFED 3"
+		}   		
+   ]
+ },
+  {
    "userId": "0001",
    "userFirst": "Aaron",
    "userLast": "Faucher",
    "userParams": [
 		{
-			"paramLabel": "Parameter 1",
+			"paramLabel": "UserParam 1",
 			"title": "Previous Job",
 			"description": "MAKE Assistant Editor"
 		},
 		{
-			"paramLabel": "Parameter 2",
+			"paramLabel": "UserParam 2",
 			"title": "Company",
 			"description": "Parameter 2 Description"
 		},
 		{
-			"paramLabel": "Parameter 3",
+			"paramLabel": "UserParam 3",
 			"title": "School",
 			"description": "Parameter 3 Description"
 		}   		
