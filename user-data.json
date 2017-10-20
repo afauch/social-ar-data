@@ -23,23 +23,23 @@
  },
   {
    "userId": "0001",
-   "userFirst": "Nathan",
-   "userLast": "LeBlanc",
+   "userFirst": "Tony",
+   "userLast": "Wang",
    "userParams": [
 		{
 			"paramLabel": "Current",
-			"title": "Graduate Student",
-			"description": "Studying Human-Computer Interaction at Carnegie Mellon"
+			"title": "Carnegie Mellon University",
+			"description": "Masters Candidate in Human-Computer Interaction"
 		},
 		{
 			"paramLabel": "Previous 1",
-			"title": "Freelance UX Strategist",
-			"description": "User research and content strategy"
+			"title": "University of California San Diego",
+			"description": "University of California San Diego"
 		},
 		{
-			"paramLabel": "Previous 2",
-			"title": "UX Strategy Intern at BEAM Interactive",
-			"description": "User research, market research, and product strategy."
+			"paramLabel": "Fun Fact",
+			"title": "I have two turtles at home ",
+			"description": "Their names are Turtle 1 and Turtle 2. I also can’t really tell them apart."
 		}   		
    ]
  }
